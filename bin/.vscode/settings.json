@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\erez2\\OOP\\src\\ass2\\biuoop-1.4.jar"
+    ]
+}
